@@ -54,13 +54,10 @@ Here are some ideas to get you started:
 ## 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jafer46&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Jafer46&theme=gruvbox&border_radius=4.5) 
 
 #
 
-#Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jafer46&theme=dark&hide_border=true)](https://git.io/streak-stats) 
-#
 
 
